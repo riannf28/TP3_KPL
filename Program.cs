@@ -6,7 +6,10 @@ namespace tpmodul3_1302200040
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string Kel;
+            KodePos KP;
+            
+            Console.WriteLine(KP.getKodePos(Kel);
         }
     }
 }

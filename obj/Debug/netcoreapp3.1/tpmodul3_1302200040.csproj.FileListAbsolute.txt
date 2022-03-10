@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.AssemblyInfo.cs
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.csproj.CoreCompileInputs.cache
