@@ -52,6 +52,10 @@ namespace tpmodul3_1302200040
             {
                 return 40273;
             }
+            else
+            {
+                return 0;
+            }
         }
     }
 }

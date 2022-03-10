@@ -6,10 +6,11 @@ namespace tpmodul3_1302200040
     {
         static void Main(string[] args)
         {
-            string Kel;
-            KodePos KP;
+            Console.Write("Input Kelurahan: \n");
+            string kel = Console.ReadLine();
+            KodePos kode = new KodePos();
+            Console.Write(kode.getKodePos(kel));
             
-            Console.WriteLine(KP.getKodePos(Kel);
         }
     }
 }

@@ -3,3 +3,12 @@ C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\De
 C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.AssemblyInfoInputs.cache
 C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.AssemblyInfo.cs
 C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\bin\Debug\netcoreapp3.1\tpmodul3_1302200040.exe
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\bin\Debug\netcoreapp3.1\tpmodul3_1302200040.deps.json
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\bin\Debug\netcoreapp3.1\tpmodul3_1302200040.runtimeconfig.json
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\bin\Debug\netcoreapp3.1\tpmodul3_1302200040.runtimeconfig.dev.json
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\bin\Debug\netcoreapp3.1\tpmodul3_1302200040.dll
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\bin\Debug\netcoreapp3.1\tpmodul3_1302200040.pdb
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.dll
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.pdb
+C:\Users\user\Downloads\Rian\Semester 4\KPL\PRAKTIKUM\tpmodul3_1302200040\obj\Debug\netcoreapp3.1\tpmodul3_1302200040.genruntimeconfig.cache
