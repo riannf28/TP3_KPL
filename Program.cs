@@ -12,7 +12,7 @@ namespace tpmodul3_1302200040
             KodePos kode = new KodePos();
             Console.WriteLine(kode.getKodePos(kel));
 
-            Console.WriteLine("Door Machine");
+            Console.WriteLine("\nDoor Machine");
             Console.Write("State Awal: ");
             DoorMachine door = new DoorMachine();
             Console.WriteLine("\nInput state: ");
